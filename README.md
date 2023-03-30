@@ -61,6 +61,8 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
+## SERVER OUTPUT:
 ![image](https://user-images.githubusercontent.com/121222763/228719286-a2d5234c-47c9-4aef-ba5b-f978d8c7e540.png)
+## CLIENT OUTPUT:
 ## RESULT:
 The program is executed succesfully
